@@ -41,6 +41,8 @@ function StudentFilter({ value, onChange }: StudentFilterProps) {
             style={{ width: "100%" }}
             options={[
               { value: "IT", label: "IT" },
+              { value: "IT", label: "IT" },
+              { value: "IT", label: "IT" },
               { value: "CSE", label: "CSE" },
               { value: "MECH", label: "MECH" },
             ]}
